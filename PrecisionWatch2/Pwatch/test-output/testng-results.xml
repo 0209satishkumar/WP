@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-16T12:32:33 IST" name="Default suite" finished-at="2022-01-16T12:34:00 IST" duration-ms="86701">
+  <suite started-at="2022-01-16T13:35:53 IST" name="Default suite" finished-at="2022-01-16T13:37:21 IST" duration-ms="87658">
     <groups>
     </groups>
-    <test started-at="2022-01-16T12:32:33 IST" name="Default test" finished-at="2022-01-16T12:34:00 IST" duration-ms="86701">
+    <test started-at="2022-01-16T13:35:53 IST" name="Default test" finished-at="2022-01-16T13:37:21 IST" duration-ms="87658">
       <class name="watch.SignupPageTest">
-        <test-method is-config="true" signature="start()[pri:0, instance:watch.SignupPageTest@7dfd3c81]" started-at="2022-01-16T12:32:33 IST" name="start" finished-at="2022-01-16T12:33:56 IST" duration-ms="82287" status="PASS">
+        <test-method is-config="true" signature="start()[pri:0, instance:watch.SignupPageTest@6a4f1a55]" started-at="2022-01-16T13:35:53 IST" name="start" finished-at="2022-01-16T13:37:15 IST" duration-ms="81902" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method is-config="true" signature="startTest()[pri:0, instance:watch.SignupPageTest@7dfd3c81]" started-at="2022-01-16T12:33:56 IST" name="startTest" finished-at="2022-01-16T12:33:58 IST" duration-ms="1837" status="PASS">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:watch.SignupPageTest@6a4f1a55]" started-at="2022-01-16T13:37:15 IST" name="startTest" finished-at="2022-01-16T13:37:18 IST" duration-ms="3516" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method signature="EnterName()[pri:1, instance:watch.SignupPageTest@7dfd3c81]" started-at="2022-01-16T12:33:58 IST" name="EnterName" finished-at="2022-01-16T12:33:58 IST" duration-ms="622" status="PASS">
+        <test-method signature="EnterName()[pri:1, instance:watch.SignupPageTest@6a4f1a55]" started-at="2022-01-16T13:37:18 IST" name="EnterName" finished-at="2022-01-16T13:37:19 IST" duration-ms="265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnterName -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:watch.SignupPageTest@7dfd3c81]" started-at="2022-01-16T12:33:58 IST" name="endTest" finished-at="2022-01-16T12:34:00 IST" duration-ms="1789" status="PASS">
+        <test-method is-config="true" signature="endTest()[pri:0, instance:watch.SignupPageTest@6a4f1a55]" started-at="2022-01-16T13:37:19 IST" name="endTest" finished-at="2022-01-16T13:37:21 IST" duration-ms="1797" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
